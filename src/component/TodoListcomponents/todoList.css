@@ -1,0 +1,82 @@
+.header-card {
+    background-color: #EEEEEE;
+    margin: 0;
+    padding-top: 35px;
+    height: 55%;
+    padding-bottom: 15px;
+}
+
+.card-top {
+    width: 100%;
+    height: 2%;
+}
+
+.task-holder {
+    width: 100%;
+    height: 98%;
+    padding: 10px;
+    display: flex;
+    flex-direction: column;
+    position: relative;
+}
+
+.task-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.cards-wrapper {
+    width: 230px;
+    background-color: red;
+}
+
+#cards {
+    background-color: red;
+}
+
+#cards-text h6 {
+    font-size: 14px;
+}
+
+#cards-text {
+    font-size: 12px;
+    padding: 3px;
+    margin: 2px;
+}
+
+.card-icons {
+    color: red;
+    padding: 14px;
+    font-size: 14px;
+}
+
+#button1 {
+    font-size: 19px;
+    background-color: #419af2;
+    color: white;
+    border-radius: 9px;
+    border-color: #419af2;
+
+}
+
+#button2 {
+    font-size: 19px;
+    background-color: #419af2;
+    color: white;
+    border-radius: 9px;
+    border-color: #419af2;
+
+}
+
+#cancelbutton {
+    font-size: 19px;
+    background-color: red;
+    color: white;
+    border-radius: 9px;
+    border-color: red;
+
+}
+
+#logout {
+    color: red;
+}
